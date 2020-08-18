@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"testAngularckc.ChuongTrinhDaoTao"},{"v":2,"unique":true,"key":{"maChuongTrinhDaoTao":1},"name":"maChuongTrinhDaoTao_1","ns":"testAngularckc.ChuongTrinhDaoTao","background":true}],"uuid":"ee0cdef5c63a48608cceb6adcf31557b"}

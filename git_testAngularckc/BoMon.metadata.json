@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"testAngularckc.BoMon"},{"v":2,"unique":true,"key":{"maBoMon":1},"name":"maBoMon_1","ns":"testAngularckc.BoMon","background":true},{"v":2,"unique":true,"key":{"tenBoMon":1},"name":"tenBoMon_1","ns":"testAngularckc.BoMon","background":true}],"uuid":"89cb03da80874ef7adaec9e4407090b4"}

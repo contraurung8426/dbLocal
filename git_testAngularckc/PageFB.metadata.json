@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"testAngularckc.PageFB"},{"v":2,"unique":true,"key":{"id_Page":1},"name":"id_Page_1","ns":"testAngularckc.PageFB","background":true},{"v":2,"unique":true,"key":{"tenPage":1},"name":"tenPage_1","ns":"testAngularckc.PageFB","background":true}],"uuid":"27c1d5b1f45d48d29c16503121e835aa"}

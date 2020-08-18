@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"testAngularckc.Khoa"},{"v":2,"unique":true,"key":{"maKhoa":1},"name":"maKhoa_1","ns":"testAngularckc.Khoa","background":true},{"v":2,"unique":true,"key":{"tenKhoa":1},"name":"tenKhoa_1","ns":"testAngularckc.Khoa","background":true}],"uuid":"eeb00baebdce44b9bf77ed7343ee89dd"}

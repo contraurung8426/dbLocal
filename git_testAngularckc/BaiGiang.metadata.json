@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"testAngularckc.BaiGiang"},{"v":2,"unique":true,"key":{"thuTu":1},"name":"thuTu_1","ns":"testAngularckc.BaiGiang","background":true},{"v":2,"unique":true,"key":{"maBaiGiang":1},"name":"maBaiGiang_1","ns":"testAngularckc.BaiGiang","background":true}],"uuid":"fee8dca0818f47bba30a0338545543e5"}
